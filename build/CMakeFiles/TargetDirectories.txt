@@ -1,0 +1,4 @@
+/home/peter/Documents/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/peter/Documents/cmake/build/CMakeFiles/cmake-good.dir
+/home/peter/Documents/cmake/build/CMakeFiles/edit_cache.dir
+/home/peter/Documents/cmake/build/CMakeFiles/say-hello.dir

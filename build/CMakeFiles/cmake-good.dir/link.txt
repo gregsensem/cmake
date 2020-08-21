@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/cmake-good.dir/main.cpp.o  -o cmake-good  -Wl,-rpath,/home/peter/Documents/cmake/build libsay-hello.so 
